@@ -25,6 +25,10 @@ These visuals allow users to explore team performance, compensation structure, a
   *  Navigate between pages using Home and Next buttons.
   *  Hover over visuals for tooltips with additional information.
 
+**Dashboard Pages**
+  *  Page 1 (Team 3 View) – Focused insights for Team 3
+  *  Page 2 (All Teams View) – Full overview across all teams
+
 **Visual Types Used**
 
   *  Bar Chart (Sum of Bonus by Job Level)
